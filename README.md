@@ -12,4 +12,4 @@ Para criar as tabelas conforme foi criado no projeto, execute o seguinte comando
 
 php artisan migrate
 
-Para acessar entre na URL: http://localhost/SectoTecaV3/sectotecaV3/public/playlist
+Para acessar entre na URL: http://127.0.0.1:8000/playlist
